@@ -159,10 +159,10 @@ Mechanical Engineering, UC Berkeley
 [LinkedIn](https://linkedin.com/in/josiahdavidlo) · josiahlo@berkeley.edu
 
 **Gary Uppal**  
-UC Berkeley
+Mechanical Engineering, UC Berkeley
 
 **Kyle Bazzone**  
-UC Berkeley
+Mechanical Engineering, UC Berkeley
 
 *Developed as part of ME100 at UC Berkeley*
 
